@@ -1,0 +1,30 @@
+/* body
+{
+    background-image: ;
+} */
+div .header
+{
+    background-color: blue;
+}
+#logo 
+{
+    position: absolute;
+    z-index: 1;
+    top:0px;
+    left:0px;
+
+}
+#bg
+{
+   
+    
+    right: 0px;
+}
+
+ul 
+{
+    justify-content: center;
+    
+    color: white;
+    
+}
